@@ -24,3 +24,15 @@ LIBS += -L/usr/X11R6/lib64 -lGL
 ```
 
 The you just clik start and the program will be runnig
+
+## What will I see?
+1. For example I have done a car which can move, rotating the wheels or open the door, automatically or manually with some sliders
+    1. <img src="https://github.com/albertorobles2000/Computer-graphics-practice/blob/main/images/Car.jpeg" width="40%">
+2. You can see a Toroide, draw with lines and triangles
+    1. <img src="https://github.com/albertorobles2000/Computer-graphics-practice/blob/main/images/Toroide.jpeg" width="40%">
+3. Or the same Toroide but this time each triangle reflects the light (FLAT) 
+    1. <img src="https://github.com/albertorobles2000/Computer-graphics-practice/blob/main/images/Toroide1.jpeg" width="40%">
+4. Or the same Toroide but this time each vertex reflects the light (SMOOTH) 
+    1. <img src="https://github.com/albertorobles2000/Computer-graphics-practice/blob/main/images/Toroide2.jpeg" width="40%">
+
+You can do many more things, just feel free to experiment with it
