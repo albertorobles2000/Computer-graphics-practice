@@ -54,8 +54,10 @@ SOURCES += \
   toroide.cc \
   window.cc
 
-#Para linux compilar con -lGL
+#Windows
 LIBS += -L/usr/X11R6/lib64 -lopengl32
+#Linux
+#LIBS += -L/usr/X11R6/lib64 -lGL
 
 
 
